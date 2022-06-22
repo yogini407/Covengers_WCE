@@ -36,7 +36,7 @@ surveillance. If any of vehicle is seems to have out of the parking slot, then i
  Backend- Python.
  
  
- Libraries- open-cv, TensorFlow, Tesseract OCR.
+ Libraries- open-cv, cvzone, EasyOCR, Pickle, matplotlib, numpy
  
  Algorithm- Yolo, CNN.
  
