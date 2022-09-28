@@ -13,6 +13,7 @@ Problem Statement: 🚦Traffic Management in WCE using Video Surveillance 📹
 
 Track: Expert Track
 
+Youtube Link: https://youtu.be/t3HuBDG6LBs
 
 
 📍Project Name: Traffic Management in WCE using Video Surveillance
